@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simplepagination/static/css/main.f9e195e6.css",
+    "main.js": "/simplepagination/static/js/main.c5adb77e.js",
+    "static/js/787.db0e4df6.chunk.js": "/simplepagination/static/js/787.db0e4df6.chunk.js",
+    "index.html": "/simplepagination/index.html",
+    "main.f9e195e6.css.map": "/simplepagination/static/css/main.f9e195e6.css.map",
+    "main.c5adb77e.js.map": "/simplepagination/static/js/main.c5adb77e.js.map",
+    "787.db0e4df6.chunk.js.map": "/simplepagination/static/js/787.db0e4df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9e195e6.css",
+    "static/js/main.c5adb77e.js"
+  ]
+}
