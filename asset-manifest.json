@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/simplepagination/static/css/main.cd383c5f.css",
-    "main.js": "/simplepagination/static/js/main.87aea089.js",
-    "static/js/787.db0e4df6.chunk.js": "/simplepagination/static/js/787.db0e4df6.chunk.js",
-    "index.html": "/simplepagination/index.html",
-    "main.cd383c5f.css.map": "/simplepagination/static/css/main.cd383c5f.css.map",
-    "main.87aea089.js.map": "/simplepagination/static/js/main.87aea089.js.map",
-    "787.db0e4df6.chunk.js.map": "/simplepagination/static/js/787.db0e4df6.chunk.js.map"
+    "main.css": "/gamzatov.github.io/simplepagination/static/css/main.705a2175.css",
+    "main.js": "/gamzatov.github.io/simplepagination/static/js/main.316f5f3e.js",
+    "static/js/787.db0e4df6.chunk.js": "/gamzatov.github.io/simplepagination/static/js/787.db0e4df6.chunk.js",
+    "index.html": "/gamzatov.github.io/simplepagination/index.html",
+    "main.705a2175.css.map": "/gamzatov.github.io/simplepagination/static/css/main.705a2175.css.map",
+    "main.316f5f3e.js.map": "/gamzatov.github.io/simplepagination/static/js/main.316f5f3e.js.map",
+    "787.db0e4df6.chunk.js.map": "/gamzatov.github.io/simplepagination/static/js/787.db0e4df6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd383c5f.css",
-    "static/js/main.87aea089.js"
+    "static/css/main.705a2175.css",
+    "static/js/main.316f5f3e.js"
   ]
 }
