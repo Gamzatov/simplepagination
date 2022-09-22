@@ -8,6 +8,18 @@
   column-gap: 30px;
   align-items: center;
 }
+.App{
+  background-color: #353535;
+  border-radius: 15px;
+  margin: 30px auto;
+  max-width: 470px;
+  padding: 15px;
+}
+.page-controls{
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 5px;
+}
 .avatar{
   border-radius: 50%;
   width: 80px;
@@ -22,11 +34,19 @@ p{
   margin: 30px auto;
   text-align: center;
 }
-.pagination > button {
+.pagination > a {
   padding: 5px ;
   cursor: pointer;
   margin: 5px;
 
+}
+.page-selector{
+  padding: 5px;
+  background: #eaeaea;
+  color: #353535;
+  margin: 5px;
+  border-radius: 5px;
+  text-decoration: none;
 }
 .active{
   background: #353535;
