@@ -37,8 +37,9 @@ function App() {
     return (
         <div className="App">
             <Routes>
-                <Route path='/simplepagination/:id' element={<User users={users}  />} />
+                <Route path={`/simplepagination/${page}`} element={<User users={users}  />} />
                 <Route path='/simplepagination/' element={<User users={users}  />} />
+                <Route path='*' element={<User users={users}  />} />
             </Routes>
 
 
